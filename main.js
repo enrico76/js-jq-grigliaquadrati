@@ -8,3 +8,8 @@ $(document).ready(function(){
     $(this).toggleClass("greencolor");
   });
 });
+$(document).ready(function(){
+  $(".rosso").click(function(){
+    $(this).toggleClass("redcolor");
+  });
+});
