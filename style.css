@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #cce6ff;
+}
+.container {
+margin: 5%;
+
+}
+.quadrato {
+  float: left;
+  background-color: white;
+  width: calc(100% / 8);
+  height: 50px;
+  border: 1px solid black;
+}
