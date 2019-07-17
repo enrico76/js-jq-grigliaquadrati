@@ -17,3 +17,17 @@ margin: 5%;
   height: 50px;
   border: 1px solid black;
 }
+.rosso {
+  float: left;
+  background-color: white;
+  width: calc(100% / 8);
+  height: 50px;
+  border: 1px solid black;
+}
+
+.redcolor {
+  background-color: red;
+}
+.greencolor {
+  background-color: green;
+}
